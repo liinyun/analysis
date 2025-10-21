@@ -4,7 +4,7 @@
 我不知道该怎么对这个问题提出质疑，我总是认为这个证明缺少了某些省略了但是非常重要的条件。
 (这个现象正常吗？)
 
-$angle.l.double "数学分析" angle.r.double$ 定义 5.1.2  p146 页
+$angle.l.double "陈纪修" angle.r.double$ 定义 5.1.2  p146 页
 有关于凹凸函数的定义。
 我直接抄下来吧
 设函数$f(x)$ 在区间 I 上定义，
@@ -37,14 +37,20 @@ $f(x_0) gt limits(lim)_(x arrow.r x_0 ) f(x)$\
 
 
 
-$angle.l.double "数学分析" angle.r.double$ 例3.2.7  p78 页 Riemann 函数
+$angle.l.double "陈纪修" angle.r.double$ 例3.2.7  p78 页 Riemann 函数
 这个是我发现总是用到这个东西，所以这个要看
 这个函数特殊在，他的左右极限都是存在且相等，都为0,但是函数值会由于其是否是有理数而不同
 从而导致连续性的区别
 
 
-$angle.l.double "数学分析" angle.r.double$ 例3.4.6  p97 页 Cantor 定理
+$angle.l.double "陈纪修" angle.r.double$ 例3.4.6  p97 页 Cantor 定理
 这个还挺有意思的，花时间看看
+
+$angle.l.double "华师大" angle.r.double$第一章 $section 2$二、p5 
+有关于上下确界的定义。多看几遍，别忘了，上下确界和这个值是否在集合中无关 
+
+还有31 页的子列的定义和那些性质，都自己多翻翻，挺重要的
+
 
 
 陈纪修没有讲有限覆盖定理，所以我现在把华师大的教材这部分讲一下
